@@ -1,4 +1,4 @@
-/# Aplicativo Web de Análise de Telemarketing
+# Aplicativo Web de Análise de Telemarketing
 
 o objetivo desse aplicativo Python é fazer análises de dados para o uso de telemarketing. O aplicativo é construído usando o Streamlit, uma biblioteca Python popular para criar aplicativos web interativos, e oferece várias funcionalidades para explorar e visualizar dados de telemarketing.
 
