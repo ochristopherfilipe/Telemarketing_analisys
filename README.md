@@ -15,4 +15,3 @@ o objetivo desse aplicativo Python é fazer análises de dados para o uso de tel
 * Instale as bibliotecas necessárias
 * rode o aplicativo usando o comando: streamlit run Telemarketing_analisys.py
 
-Abra [esse link](https://telemarketingdata.streamlit.app/)
