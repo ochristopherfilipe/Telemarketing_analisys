@@ -6,7 +6,6 @@ import seaborn           as sns
 import matplotlib.pyplot as plt
 from PIL                 import Image
 from io                  import BytesIO
-from xlsxwriter		 import Workbook
 
 
 # Set no tema do seaborn para melhorar o visual dos plots
