@@ -9,9 +9,19 @@ o objetivo desse aplicativo Python é fazer análises de dados para o uso de tel
 * Visualização: O aplicativo oferece gráficos de barras e gráficos de pizza, para analisar os dados visualmente, antes e depois de aplicar filtros.
 * Exportação de Dados: Os usuários podem baixar os dados filtrados em formato Excel para análise adicional.
 
+## Exemplo:
+
+
+
+https://github.com/ochristopherfilipe/Telemarketing_analisys/assets/112826117/80616979-ed96-4da2-9888-8e616e9d05b0
+
+
+
 # Como usar:
 
 * Clone o repositório
 * Instale as bibliotecas necessárias
 * rode o aplicativo usando o comando: streamlit run Telemarketing_analisys.py
+
+  
 
