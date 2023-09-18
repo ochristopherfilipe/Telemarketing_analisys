@@ -13,7 +13,16 @@ o objetivo desse aplicativo Python é fazer análises de dados para o uso de tel
 
 
 
-https://github.com/ochristopherfilipe/Telemarketing_analisys/assets/112826117/80616979-ed96-4da2-9888-8e616e9d05b0
+
+
+https://github.com/ochristopherfilipe/Telemarketing_analisys/assets/112826117/4d05ec18-ba6d-48d1-864d-f305d89701d5
+
+
+print do arquivo filtrado baixado:
+
+
+![image](https://github.com/ochristopherfilipe/Telemarketing_analisys/assets/112826117/099bbf24-7e4a-4c70-9848-9c45d920f4c8)
+
 
 
 
