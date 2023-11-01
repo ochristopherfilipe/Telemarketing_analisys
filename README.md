@@ -13,8 +13,13 @@ Os principais recursos da aplicação incluem:
 5. Visualização de dados brutos e dados filtrados em gráficos para comparação.
 6. A aplicação permite aos usuários explorar e analisar os dados de uma campanha de telemarketing de forma interativa, facilitando a compreensão das tendências e resultados. Além disso, oferece a capacidade de realizar análises personalizadas com base em diferentes filtros e critérios.
 
-### Dependencias
+### Requisitos
 
+xlsxWriter==3.1.9
+pandas==2.0.3
+streamlit==1.27.2
+seaborn==0.12.2
+matplotlib==3.7.2
 
 ### Instalação
 
@@ -22,7 +27,7 @@ Os principais recursos da aplicação incluem:
 
 ### Executando o projeto
 
-* Para rodar o programa basta acessar aqui:
+* Para rodar o programa basta acessar [este link](https://telemarketing.streamlit.app/)
 * Após abrir o programa, carregue a base de dados disponibilizada neste repositório.
 * Selecione os valores na aba esquerda e aplique.
 * Veja os gráficos e faça sua análise.
