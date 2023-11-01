@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação Streamlit para análise de dados de uma campanha de telemarketing. 
 
-#Exemplo prático: 
+## Exemplo prático: 
 
 * Sem os filtros podemos ver que a proporção de aceite é de 10,95% aceitarem o produto ecom filtros de 60 - 88 anos, divorciado ou casado e com financiamento ou empréstimo a proporção de aceite sobe para 54,55%.
 
