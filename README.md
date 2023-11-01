@@ -1,55 +1,45 @@
 # Título do projeto
 
-Um simples resumo do uso/propósito do projeto.
+Este projeto é uma aplicação Streamlit para análise de dados de uma campanha de telemarketing. 
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Os principais recursos da aplicação incluem:
 
-## Utilização
+1. Carregamento de dados a partir de arquivos CSV ou Excel.
+2. Filtragem dos dados com base em várias opções, como faixa etária, profissão, estado civil, entre outros.
+3. Geração de gráficos de barras e gráficos de pizza para analisar a proporção de aceitação em relação às categorias selecionadas.
+4. Download de dados filtrados em formato Excel.
+5. Visualização de dados brutos e dados filtrados em gráficos para comparação.
+6. A aplicação permite aos usuários explorar e analisar os dados de uma campanha de telemarketing de forma interativa, facilitando a compreensão das tendências e resultados. Além disso, oferece a capacidade de realizar análises personalizadas com base em diferentes filtros e critérios.
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+* Não é necessária a instalação, basta abrir o app web.
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+* Para rodar o programa basta acessar aqui:
+* Após abrir o programa, carregue a base de dados disponibilizada neste repositório.
+* Selecione os valores na aba esquerda e aplique.
+* Veja os gráficos e faça sua análise.
 
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
-
+  
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Christopher Santos  
+[LinkedIn](https://www.linkedin.com/in/christopherfilipe/)
 
 ## Histórico de versões.
 
 * 0.2
 	* Ajustes de diversos bugs e otimização
 * 0.1
-    * Primeira versão
+	* Primeira versão
 
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
