@@ -15,11 +15,11 @@ Os principais recursos da aplicação incluem:
 
 ### Requisitos
 
-xlsxWriter==3.1.9
-pandas==2.0.3
-streamlit==1.27.2
-seaborn==0.12.2
-matplotlib==3.7.2
+* xlsxWriter==3.1.9
+* pandas==2.0.3
+* streamlit==1.27.2
+* seaborn==0.12.2
+* matplotlib==3.7.2
 
 ### Instalação
 
@@ -33,10 +33,9 @@ matplotlib==3.7.2
 * Veja os gráficos e faça sua análise.
 
   
-## Autores
+## Autor
 
-Christopher Santos  
-[LinkedIn](https://www.linkedin.com/in/christopherfilipe/)
+[Christopher Santos](https://www.linkedin.com/in/christopherfilipe/)
 
 ## Histórico de versões.
 
