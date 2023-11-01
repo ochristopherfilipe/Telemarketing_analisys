@@ -1,0 +1,5 @@
+xlsxWriter==3.1.9
+pandas==2.0.3
+streamlit==1.27.2
+seaborn==0.12.2
+matplotlib==3.7.2
